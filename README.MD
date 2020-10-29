@@ -32,3 +32,9 @@ Underline 2
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+
+# Links
+
+- <a href="http://www.google.com">Esto es un link html</a>
+- [Esto es un link en markdown](http://www.google.com)
+- [Esto es un link a index](index.html)
